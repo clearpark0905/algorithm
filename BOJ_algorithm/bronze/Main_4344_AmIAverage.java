@@ -19,6 +19,7 @@ public class Main_4344_AmIAverage {
                 sum += Integer.parseInt(str[j]);
                 score[j - 1] = Integer.parseInt(str[j]);
             }
+            
             double avg = sum/scoreCase;
             int avgUp = 0;
             for (int j = 0; j < scoreCase; j++) {
