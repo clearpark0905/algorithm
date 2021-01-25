@@ -20,6 +20,6 @@ public class Main_2869_snail {
         bw.flush();
         bw.close();
         br.close();
-        
+
     }
 }
