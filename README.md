@@ -80,6 +80,10 @@ Main_2941_CroatiaAlphabet.java
 <br>
 Main_4948_Bertrand.java
 <br>
+Main_9020_goldbach.java
+<br>
+Main_9020_goldbach2.java
+<br>
 Main_11653_factorization.java
 <br>
 Main_11653_factorization2.java
