@@ -32,7 +32,13 @@ Main_2869_snail.java
 <br>
 Main_2908_sangsu.java
 <br>
+Main_3009_fourthPorint.java
+<br>
 Main_3052_remainder.java
+<br>
+Main_3053_ManhattanDistance
+<br>
+Main_4153_rightTriangle.java
 <br>
 Main_4344_AmIAverage.java
 <br>
