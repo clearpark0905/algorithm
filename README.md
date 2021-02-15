@@ -4,6 +4,8 @@
 
 ## bronze
 <br><br>
+Main_1085_escapeFromRectangle.java
+<br>
 Main_1152_numberOfWord.java
 <br>
 Main_1157_studyTheWord.java
